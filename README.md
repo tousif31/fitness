@@ -1,6 +1,14 @@
 <h1 align="center">💪 AI Fitness Assistant 🤖</h1>
 
+<p align="center">
+  <img src="./assets/banner.png" alt="AI Fitness Assistant Banner" width="800" />
+</p>
 
+<p align="center">
+  <a href="https://fitness-eight-psi.vercel.app/" target="_blank">🌐 Live Demo</a>
+</p>
+
+---
 
 
 ## Highlights:
