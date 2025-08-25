@@ -1,6 +1,6 @@
 <h1 align="center">💪 AI Fitness Assistant 🤖</h1>
 
-![Uploading image.png…]()
+![Uploading ChatGPT Image Aug 25, 2025, 02_56_49 PM.png…]()
 
 
 
